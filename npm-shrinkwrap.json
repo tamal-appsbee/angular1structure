@@ -1,0 +1,41 @@
+{
+  "name": "blackGoatKit",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": {
+      "version": "1.5.5",
+      "from": "angular@1.5.5",
+      "resolved": "https://registry.npmjs.org/angular/-/angular-1.5.5.tgz"
+    },
+    "angular-sanitize": {
+      "version": "1.5.5",
+      "from": "angular-sanitize@1.5.5",
+      "resolved": "https://registry.npmjs.org/angular-sanitize/-/angular-sanitize-1.5.5.tgz"
+    },
+    "angular-ui-router": {
+      "version": "0.2.18",
+      "from": "angular-ui-router@0.2.18",
+      "resolved": "https://registry.npmjs.org/angular-ui-router/-/angular-ui-router-0.2.18.tgz"
+    },
+    "bootstrap": {
+      "version": "3.3.7",
+      "from": "bootstrap@>=3.3.6 <4.0.0",
+      "resolved": "https://registry.npmjs.org/bootstrap/-/bootstrap-3.3.7.tgz"
+    },
+    "font-awesome": {
+      "version": "4.7.0",
+      "from": "font-awesome@>=4.5.0 <5.0.0",
+      "resolved": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz"
+    },
+    "jquery": {
+      "version": "2.2.4",
+      "from": "jquery@>=2.2.3 <3.0.0",
+      "resolved": "https://registry.npmjs.org/jquery/-/jquery-2.2.4.tgz"
+    },
+    "toastr": {
+      "version": "2.1.2",
+      "from": "toastr@>=2.1.2 <3.0.0",
+      "resolved": "https://registry.npmjs.org/toastr/-/toastr-2.1.2.tgz"
+    }
+  }
+}

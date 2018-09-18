@@ -1,0 +1,37 @@
+<div class="container" id="god">
+    <section class="god-content">
+        <h2>{{god.god.title}}</h2>
+        <p>{{god.god.body}}</p>
+    </section>
+    <section class="god-author">
+        <h4 class="divider"><span>Author</span></h4>
+        <div class="row text-center">
+            <div class="col-xs-12 col-sm-6">
+                <h4><a href="./#/users/{{god.user.id}}">{{god.user.name}}</a></h4>
+                <p>Read <a href="./#/users/{{god.user.id}}">more gods</a> by this author.</p>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+                <h4>Share this god</h4>
+                <social></social>
+            </div>
+        </div>
+    </section>
+    <section class="comments">
+        <h4 class="divider"><span>Comments</span></h4>
+        <ul>
+            <li ng-repeat="c in god.comments">
+                <article class="comment">
+                    <header class="comment-header">
+                        <h2><a ng-href="./#/comments/{{c.id}}">{{c.name}}</a></h2>
+                    </header>
+                    <section class="comment-excerpt">
+                        <p>Commented by: <span ng-bind-html="c.email | reply"></span></p>
+                        <p>{{c.body}}</p>
+                        <vote></vote>
+                    </section>
+                </article>
+                <hr>
+            </li>
+        </ul>
+    </section>
+</div>

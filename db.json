@@ -1,0 +1,319 @@
+{
+  "gods": [
+    {
+      "id": 1,
+      "name": "Baldr",
+      "meaning": "Old Norse form is contested. Old English form directly translates as shining day.",
+      "attestetions": "Merseburg Incantation, Poetic Edda, Prose Edda, Gesta Danorum, Chronicon Lethrense, Annales Lundenses, possibly Beowulf"
+    },
+    {
+      "id": 2,
+      "name": "Bragi",
+      "meaning": "Connected with Bragr (poetry)",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry"
+    },
+    {
+      "id": 3,
+      "name": "Dellingr",
+      "meaning": "DelPossibly the dayspring or shining one",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },
+    {
+      "id": 4,
+      "name": "Forseti",
+      "meaning": "Chairman",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },
+    {
+      "id": 5,
+      "name": "Freyr",
+      "meaning": "Lord",
+      "attestetions": "Gesta Hammaburgensis ecclesiae pontificum, Poetic Edda, Prose Edda, Heimskringla, Ögmundar þáttr dytts, Gesta Danorum, various others"
+    },
+    {
+      "id": 6,
+      "name": "Heimdallr",
+      "meaning": "World-brightener",
+      "attestetions": "Prose Edda, Poetic Edda"
+    },
+    {
+      "id": 7,
+      "name": "Hermóðr",
+      "meaning": "War-spirit",
+      "attestetions": "Poetic Edda, Prose Edda, Beowulf, Old English royal genealogies"
+    },
+    {
+      "id": 8,
+      "name": "Höðr",
+      "meaning": "Warrior",
+      "attestetions": "Poetic Edda, Prose Edda, Gesta Danorum, Chronicon Lethrense, Annales Lundenses, possibly Beowulf"
+    },
+    {
+      "id": 9,
+      "name": "Hœnir ",
+      "meaning": "Contested",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry"
+    },
+    {
+      "id": 10,
+      "name": "Lóðurr",
+      "meaning": "Contested",
+      "attestetions": "Poetic Edda, skaldic poetry"
+    },{
+      "id": 11,
+      "name": "Loki ",
+      "meaning": "Contested",
+      "attestetions": "Poetic Edda, Prose Edda, Heimskringla, Loka Táttur, Norwegian rune poem, Danish folk tales"
+    },
+    {
+      "id": 12,
+      "name": "Máni",
+      "meaning": "Moon",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 13,
+      "name": "Mímir",
+      "meaning": "Rememberer",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 14  ,
+      "name": "Meili",
+      "meaning": "The Lovely one",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 15,
+      "name": "Njörðr",
+      "meaning": "Contested",
+      "attestetions": "Poetic Edda, Prose Edda, Heimskringla, Egils saga, Hauksbók ring oath, place names"
+    },{
+      "id": 16,
+      "name": "Odin",
+      "meaning": "frenzy",
+      "attestetions": "Most attestations of Germanic paganism"
+    },{
+      "id": 17,
+      "name": "Óðr ",
+      "meaning": "The frenzied one",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 18,
+      "name": "Saxnōt ",
+      "meaning": "Contested",
+      "attestetions": "Old Saxon Baptismal Vow, Old English royal genealogies"
+    },{
+      "id": 19,
+      "name": "Thor",
+      "meaning": "Thunder, all names stem from Proto-Germanic ÞunraR",
+      "attestetions": "Most attestations of Germanic paganism"
+    },{
+      "id": 20,
+      "name": "Týr",
+      "meaning": "God, derived from Proto-Germanic ",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry, Hadrian's Wall altar"
+    },{
+      "id": 21,
+      "name": "Ullr ",
+      "meaning": "Something like Glory",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry, Gesta Danorum, Thorsberg chape, toponyms in Norway and Sweden"
+    },{
+      "id": 22,
+      "name": "Váli",
+      "meaning": "Chosen",
+      "attestetions": "Poetic Edda, Prose Edda, Gesta Danorum "
+    },{
+      "id": 23,
+      "name": "Viðarr",
+      "meaning": "Possibly wide ruler",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 24,
+      "name": "Vé",
+      "meaning": "Vé (shrine)",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 20,
+      "name": "Vili",
+      "meaning": "Will",
+      "attestetions": "Poetic Edda, Prose Edda"
+    }
+  ],
+  "goddesses": [
+    {
+      "id": 1,
+      "name": "Baduhenna",
+      "meaning": "Badu-, may be cognate to Proto-Germanic *badwa- meaning battle. The second portion of the name -henna may be related to -henae, which appears commonly in the names of matrons.",
+      "attestetions": "Tactus Annal"
+    },
+    {
+      "id": 2,
+      "name": "Bil",
+      "meaning": "Contested",
+      "attestetions": "Prose Edda"
+    },
+    {
+      "id": 3,
+      "name": "Beyla ",
+      "meaning": "Proposed as related to cow, bean, or bee.",
+      "attestetions": "Poetic Edda"
+    },
+    {
+      "id": 4,
+      "name": "Eir",
+      "meaning": "East",
+      "attestetions": "De temporum ratione"
+    },
+    {
+      "id": 5,
+      "name": "Freyja",
+      "meaning": "Lady",
+      "attestetions": "Poetic Edda, Prose Edda, Heimskringla, Sörla þáttr"
+    },
+    {
+      "id": 6,
+      "name": "Frigg",
+      "meaning": "Derived from an Indo-European root meaning Love",
+      "attestetions": "Poetic Edda, Prose Edda, Gesta Danorum, Historia Langobardorum"
+    },
+    {
+      "id": 7,
+      "name": "Fulla",
+      "meaning": "Possibly bountiful",
+      "attestetions": "Merseburg Incantations, Prose Edda"
+    },
+    {
+      "id": 8,
+      "name": "Gefjun",
+      "meaning": "Related to giving",
+      "attestetions": "Prose Edda, Ynglinga saga, Völsa þáttr"
+    },
+    {
+      "id": 9,
+      "name": "Gersemi ",
+      "meaning": "Treasure, precious object",
+      "attestetions": "Heimskringla"
+    },
+    {
+      "id": 10,
+      "name": "Gerðr",
+      "meaning": "Fenced in",
+      "attestetions": "Poetic Edda, Prose Edda, Heimskringla"
+    },
+    {
+      "id": 11,
+      "name": "Gná ",
+      "meaning": "Possibly related to Old Norse Gnæfa, meaning to project",
+      "attestetions": "Prose Edda"
+    },
+    {
+      "id": 12,
+      "name": "Gullveig ",
+      "meaning": "",
+      "attestetions": "Poetic Edda"
+    },{
+      "id": 13,
+      "name": "Hariasa",
+      "meaning": "Possibly related to the valkyrie name Herja or meaning goddess with lots of hair",
+      "attestetions": "Stone from Cologne, Germany"
+    },{
+      "id": 14  ,
+      "name": "Hlín ",
+      "meaning": "Possibly related to the Old Norse term hleinir, itself possibly meaning protects",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 15,
+      "name": "Hretha ",
+      "meaning": "Possibly the famous or the victorious",
+      "attestetions": "De temporum ratione"
+    },{
+      "id": 16,
+      "name": "Hnoss",
+      "meaning": "Treasure",
+      "attestetions": "Prose Edda"
+    },{
+      "id": 17,
+      "name": "Ilmr",
+      "meaning": "Potentially related to Old Norse ilmr, a masculine noun meaning pleasant scent",
+      "attestetions": "Prose Edda, skaldic poetry"
+    },{
+      "id": 18,
+      "name": "Iðunn ",
+      "meaning": "Possibly ever young",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 19,
+      "name": "Irpa",
+      "meaning": "Possibly relating to dark brown",
+      "attestetions": "Jómsvíkinga saga, Njáls saga"
+    },{
+      "id": 20,
+      "name": "Lofn ",
+      "meaning": "Potentially related to Praise",
+      "attestetions": "Prose Edda"
+    },{
+      "id": 21,
+      "name": "Nanna ",
+      "meaning": "Possibly mother from nanna, or potentially related to nanþ-, meaning the daring one",
+      "attestetions": "Poetic Edda, Prose Edda, Gesta Danorum, Chronicon Lethrense, Setre Comb"
+    },{
+      "id": 22,
+      "name": "Nerthus",
+      "meaning": "Latinized form of what Old Norse Njörðr would have looked like around 1 CE",
+      "attestetions": "Germania"
+    },{
+      "id": 23,
+      "name": "Njörun",
+      "meaning": "Possibly related to the Norse god Njörðr and the Roman goddess Nerio",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry"
+    },{
+      "id": 24,
+      "name": "Rán ",
+      "meaning": "Theft, robbery",
+      "attestetions": "Poetic Edda, Prose Edda, Friðþjófs saga hins frœkna"
+    },{
+      "id": 25,
+      "name": "Rindr",
+      "meaning": "Possibly related to *Vrindr",
+      "attestetions": "Poetic Edda, Prose Edda, Gesta Danorum"
+    },{
+      "id": 26,
+      "name": "Sága",
+      "meaning": "Possibly to see",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry"
+    },{
+      "id": 27,
+      "name": "Sandraudiga ",
+      "meaning": "She who dyes the sand red",
+      "attestetions": "North Brabant stone"
+    },{
+      "id": 28,
+      "name": "Sif  ",
+      "meaning": "In-law-relationship",
+      "attestetions": "North Brabant stone"
+    },{
+      "id": 29,
+      "name": "Sigyn",
+      "meaning": "Victorious girl-friend",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 30,
+      "name": "Sandraudiga ",
+      "meaning": "She who dyes the sand red",
+      "attestetions": "North Brabant stone"
+    },{
+      "id": 31,
+      "name": "Sinthgunt",
+      "meaning": "Contested",
+      "attestetions": "Merseburg Incantations"
+    },{
+      "id": 32,
+      "name": "Sandraudiga ",
+      "meaning": "She who dyes the sand red",
+      "attestetions": "North Brabant stone"
+    },{
+      "id": 33,
+      "name": "Sandraudiga ",
+      "meaning": "She who dyes the sand red",
+      "attestetions": "North Brabant stone"
+    }
+  ]
+}

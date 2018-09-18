@@ -1,0 +1,45 @@
+<!doctype html>
+<html ng-app="app" ng-strict-di lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Angular Quickstart</title>
+    <meta name="description" content="An AngularJS 1.x QuickStart kit featuring: ES6, Webpack, UI-Router, and more">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <meta name="robots" content="noindex">
+    <meta name="theme-color" content="#EE3268">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="images/favicon.png"/>
+</head>
+
+<body>
+<ng-menu></ng-menu>
+<div class="content">
+    <div class="spinner" ng-show="loadingView">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+    </div>
+    <ui-view ng-hide="loadingView" ng-cloak=""></ui-view>
+</div>
+<div class="container" ng-hide="loadingView">
+    <ng-footer></ng-footer>
+</div>
+<script src="bundle.js"></script>
+<script type="text/javascript">
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+            navigator.serviceWorker.register('service-worker.js').then(function (registration) {
+                // Registration was successful
+                console.log('ServiceWorker registration successful with scope: ', registration.scope);
+            }).catch(function (err) {
+                // registration failed :(
+                console.log('ServiceWorker registration failed: ', err);
+            });
+        });
+    }
+</script>
+</body>
+
+</html>
