@@ -5,7 +5,7 @@
   "engines": {
     "node": "6.9.2"
   },
-  "author": "",
+  "author": "Fernando Monteiro[REF:https://github.com/newaeonweb/blackgoatboilerplate]",
   "repository": {
     "type": "git",
     "url": "https://github.com/tamal-appsbee/angular1structure.git"
